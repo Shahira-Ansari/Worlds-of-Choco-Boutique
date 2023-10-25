@@ -3,7 +3,7 @@ I have create a dummy website of World of Choco Boutique
 -----------------------------------------------------------------------------------------------
 Aim: 
 To deploy a website on Azure, establish a custom URL via DNS. Additionally, setting up a web alert rule, and employ access restrictions to prevent malicious users from accessing the website.
-----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 **Procedure**
 
 Step1: Establish a Virtual Network (V-Net) that contains a subnet, and within that subnet, place a Virtual Machine (VM).
