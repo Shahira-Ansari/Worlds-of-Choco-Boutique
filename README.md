@@ -15,8 +15,100 @@ Create a VM
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/4180c84d-d000-472c-bf81-cbca2ae9011f)
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/f4f31353-a175-4498-90b4-c389f6e633e2)
 
-Conect VM 
+Connect VM 
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/aa1a005d-199b-48de-9acc-3482c75da7f4)
+
+Download FileZilla
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/7716e89a-fa22-43e0-8386-d437e40826e7)
+
+Install FileZilla
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/9b82d0ec-886a-4f26-b69e-b252e1287d79)
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/bea84a51-889b-48a5-9f11-d9b041eb4a0e)
+
+Create a Web App
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/bc81b237-d91a-463c-83ce-34c7a08b37f6)
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/a3be2b10-b352-48b3-84a4-6345fda2e4d5)
+
+FTPS Credentials 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/9184712a-0cb9-414d-8780-e696e64edd27)
+
+FTPS Credentials in FileZilla
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/e28bf8d9-72bd-4d08-8ca7-2446a492ee6f)
+
+Transfer the file
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/92513d36-c866-45bd-84a3-0b382da01e67)
+
+Website view in VM1
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/97ba3689-4236-42c1-9455-7fba479d91ee)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
