@@ -15,11 +15,17 @@ Architecture
 
 **Explanation of a diagram:**
 Here we have created a V-Net in Central India with ip address 10.0.0.0/24. Inside that we have subnet1 with ip address 10.0.0.0/16. And inside the subnet1 there is a VM1 and web app.
+
 In web app we are going to create DNS alert and access restriction.
+
 **	Now let us look how to deploy a website.**
+
 Create a web app and go to the deployment center.
+
 Connect the VM and install the FileZilla as well as install the website of your choice.
+
 Form the web app give the FTPS credentials to the FileZilla and connect.
+
 Copy the URL of where babe on the Google you will be able to view your website.
 
 NOTE: 
