@@ -35,7 +35,58 @@ You can view your website from any device.
 
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/c37eb138-57ed-4f7d-8ce1-4c63a4c71867)
 
+**Explanation of a diagram:**
+
+Here we have created a V-Net in Central India with ip address 10.0.0.0/24. Inside that we have subnet1 with ip address 10.0.0.0/16. And inside the subnet1 there is a VM1 and web app.
+
+In web app we are going to create DNS.
+
+**Now let us look how to have a custom domain.**
+
+Here we have taken the domain name as worldsofchocoboutique.redbusmagic.online.
+
+We need to paste the CNAME and TXT in the hostinger. (Or else from wherever we have buy the domain)
+
+We need to validate and wait for some time after validation we can add the domain name.
+
+It will automatically get a binding or else you need to bind it.
+
+Paste the new URL on the web app and you will be able to view the website.
+
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/4cce314b-ae42-4c6a-93c8-f41521800e0e)
+
+**Explanation of a diagram:**
+
+Here we have created a V-Net in Central India with ip address 10.0.0.0/24. Inside that we have subnet1 with ip address 10.0.0.0/16. And inside the subnet1 there is a VM1 and web app.
+
+In web app we are going to create alert and access restriction.
+
+**Now let us look how to create alert rule.**
+
+Here we have created an alert rule where we will be getting a notification on SMS and email on the registered phone number and the email ID.
+
+The rule is that if a website is not working and user try to access the website a notification will be send on the given phone number and email. 
+
+**Now let us look how to access restriction.**
+
+Here we can restrict some VM and allow some VM to get the access. Also we can restrict some IP and allow other IP to get the access. 
+
+If any of the devices is unable to view the website then we will be getting an notification.
+
+**Now let us look how to restrict a VM1.**
+
+Here I have restricted VM1 for this website but on the same time I can access it on my local machine or on my phone. 
+
+Simultaneously I will also get a notification on email and SMS that someone is unable to view the website.
+
+Suppose now you want to remove the restriction from the VM1.
+
+Then you need to change the priority to 999 because the priority which was set to 1000 was to restrict the VM1.
+
+After setting the priority will be able to view the website.
+
+**NOTE:** 
+Higher the priority lesser the number.
 
 
 Create a VM
