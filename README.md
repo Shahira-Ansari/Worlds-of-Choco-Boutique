@@ -39,14 +39,24 @@ Transfer the file
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/92513d36-c866-45bd-84a3-0b382da01e67)
 
 Website view in VM1
-![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/97ba3689-4236-42c1-9455-7fba479d91ee)
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/74a820ac-4cda-4bcc-a02a-6325a379d800)
 
+Website view in local machine 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/bad4fc00-b14e-45ee-9654-09fb1d22014b)
 
+Working Website
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/d2d80ddf-5bf7-4183-ac3a-174edacbaab8)
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/5fd9f3ef-fe37-43a5-bd74-94c077de70e3)
 
+Create a custom domain  
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/50cbfa19-6442-45b7-b28d-cca63f211164)
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/272e9a18-372f-4112-9bbd-9823c2d64f8f)
 
+Added it in Hostinger 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/1d24b5ca-e9d2-41fa-a16e-c4a2418462b2)
 
-
-
+Validate the domain & Add 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/5b83dd88-6271-45df-9475-fc5e91c004ff)
 
 
 
