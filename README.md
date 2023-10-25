@@ -1,7 +1,10 @@
 # Worlds-of-Choco-Boutique
+
 I have create a dummy website of World of Choco Boutique
+
 -----------------------------------------------------------------------------------------------
 **Aim:** 
+
 To deploy a website on Azure, establish a custom URL via DNS. Additionally, setting up a web alert rule, and employ access restrictions to prevent malicious users from accessing the website.
 
 ----------------------------------------------------------------------------------------------------------------------
@@ -30,6 +33,8 @@ https://world.of.choco.boutique.redbusmagic.online/
 ------------------------------------------------------------------------------------------------------------------------------------------------
 **Architecture**
 
+**Deployment of Website**
+
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/b0c645be-157d-4dbe-8f75-aabf337cf1d4)
 
 
@@ -57,6 +62,8 @@ You can view your website from any device.
 
 
 
+**Implementing our own Domain**
+
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/c37eb138-57ed-4f7d-8ce1-4c63a4c71867)
 
 
@@ -81,6 +88,8 @@ Paste the new URL on the web app and you will be able to view the website.
 
 
 
+
+**Implementing Alerts and Access Restriction**
 
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/4cce314b-ae42-4c6a-93c8-f41521800e0e)
 
