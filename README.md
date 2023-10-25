@@ -10,9 +10,12 @@ World of Choco Boutique website link:
 https://world.of.choco.boutique.redbusmagic.online/
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Architecture
+
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/b0c645be-157d-4dbe-8f75-aabf337cf1d4)
 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/c37eb138-57ed-4f7d-8ce1-4c63a4c71867)
 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/4cce314b-ae42-4c6a-93c8-f41521800e0e)
 
 
 Create a VM
