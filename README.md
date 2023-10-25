@@ -2,12 +2,19 @@
 
 I have create a dummy website of World of Choco Boutique
 
------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Youtube Video Link:
+https://youtu.be/3hUzs8cpfNs?si=iVteVhklNn5lXoC_
+-------------------------------------------------------------------------------------------------------------------------------------------------
+World of Choco Boutique website link:
+https://world.of.choco.boutique.redbusmagic.online/
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Aim:** 
 
 To deploy a website on Azure, establish a custom URL via DNS. Additionally, setting up a web alert rule, and employ access restrictions to prevent malicious users from accessing the website.
 
-----------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
 **Procedure**
 
 **Step1:** Establish a Virtual Network (V-Net) that contains a subnet, and within that subnet, place a Virtual Machine (VM).
@@ -24,13 +31,8 @@ To deploy a website on Azure, establish a custom URL via DNS. Additionally, sett
 
 **Step7:** Create an access restriction.
 
------------------------------------------------------------
-Youtube Video Link:
-https://youtu.be/3hUzs8cpfNs?si=iVteVhklNn5lXoC_
 -------------------------------------------------------------------------------------------------------------------------------------------------
-World of Choco Boutique website link:
-https://world.of.choco.boutique.redbusmagic.online/
-------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Architecture**
 
 **Deployment of Website**
