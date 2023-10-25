@@ -9,9 +9,10 @@ https://youtu.be/3hUzs8cpfNs?si=iVteVhklNn5lXoC_
 World of Choco Boutique website link:
 https://world.of.choco.boutique.redbusmagic.online/
 ------------------------------------------------------------------------------------------------------------------------------------------------
-Architecture
+**Architecture**
 
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/b0c645be-157d-4dbe-8f75-aabf337cf1d4)
+
 
 **Explanation of a diagram:**
 
@@ -33,7 +34,12 @@ Copy the URL of where babe on the Google you will be able to view your website.
 
 You can view your website from any device.
 
+
+
+
+
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/c37eb138-57ed-4f7d-8ce1-4c63a4c71867)
+
 
 **Explanation of a diagram:**
 
@@ -53,7 +59,12 @@ It will automatically get a binding or else you need to bind it.
 
 Paste the new URL on the web app and you will be able to view the website.
 
+
+
+
+
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/4cce314b-ae42-4c6a-93c8-f41521800e0e)
+
 
 **Explanation of a diagram:**
 
@@ -87,6 +98,9 @@ After setting the priority will be able to view the website.
 
 **NOTE:** 
 Higher the priority lesser the number.
+
+
+
 
 
 Create a VM
