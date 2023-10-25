@@ -18,7 +18,7 @@ Here we have created a V-Net in Central India with ip address 10.0.0.0/24. Insid
 
 In web app we are going to create DNS alert and access restriction.
 
-**	Now let us look how to deploy a website.**
+**Now let us look how to deploy a website.**
 
 Create a web app and go to the deployment center.
 
