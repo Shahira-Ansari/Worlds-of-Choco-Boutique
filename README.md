@@ -6,19 +6,19 @@ To deploy a website on Azure, establish a custom URL via DNS. Additionally, sett
 ----------------------------------------------------------------------------------------------------------------------
 **Procedure**
 
-Step1: Establish a Virtual Network (V-Net) that contains a subnet, and within that subnet, place a Virtual Machine (VM).
+**Step1:** Establish a Virtual Network (V-Net) that contains a subnet, and within that subnet, place a Virtual Machine (VM).
 
-Step2: Create a web service using App Service.
+**Step2:** Create a web service using App Service.
 
-Step3: Establish a connection to the VM, install FileZilla within the VM, & deploy a website through FileZilla.
+**Step3:** Establish a connection to the VM, install FileZilla within the VM, & deploy a website through FileZilla.
 
-Step4: We can paste the URL of web app on the internet we will be able to see the website.
+**Step4:** We can paste the URL of web app on the internet we will be able to see the website.
 
-Step5: We can change the URL of the web app by custom domain with the help of hostinger. We will be able to view the website through our domain
+**Step5:** We can change the URL of the web app by custom domain with the help of hostinger. We will be able to view the website through our domain
 
-Step6: Create an alert rule for web app.
+**Step6:** Create an alert rule for web app.
 
-Step7: Create an access restriction.
+**Step7:** Create an access restriction.
 
 -----------------------------------------------------------
 Youtube Video Link:
