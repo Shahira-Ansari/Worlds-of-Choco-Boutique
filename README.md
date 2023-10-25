@@ -2,7 +2,7 @@
 I have create a dummy website of World of Choco Boutique
 -----------------------------------------------------------------------------------------------
 Aim: To deploy a website on Azure, establish a custom URL via DNS. Additionally, setting up a web alert rule, and employ access restrictions to prevent malicious users from accessing the website.
-----------------------------------------------
+-----------------------------------------------------------
 Youtube Video Link:
 https://youtu.be/3hUzs8cpfNs?si=iVteVhklNn5lXoC_
 ----------------------------------------------------------------------------------------------------------------------------------
