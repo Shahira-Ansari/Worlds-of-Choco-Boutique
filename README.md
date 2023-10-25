@@ -58,25 +58,40 @@ Added it in Hostinger
 Validate the domain & Add 
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/5b83dd88-6271-45df-9475-fc5e91c004ff)
 
+Domain with SSL 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/2f22e678-b151-4c37-9199-cbe0b6aa0a30)
 
+Viewing website with our own domain 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/2fa0617e-666c-4d51-a8a1-7c2775aaba2b)
 
+Creating an alert rule for web App
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/12e1e347-7a12-4b2d-afb2-481921dd843e)
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/f1ad9cb2-aa49-4ad8-a922-f68fec8ca768)
 
+Identify the rule 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/b999f356-09c1-42ff-9735-3fbdfb281fe9)
 
+Create an action group 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/f5afbb40-f1ec-48e3-93ad-385537b43474)
 
+Giving email & phone number for notifications.
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/97ccd53b-11d7-465d-a7eb-7bc367b7cc0c)
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/1a03d939-7c16-41e9-adda-8f2329391fdc)
 
+Registered phone number 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/220f3e29-3d72-4912-9e00-a5e24bd6fcb9)
 
+Registered email 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/114ce059-47ce-4ab2-ac0b-3383c425f85f)
 
+Create an alert rule for choco bites 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/3762c920-ac8e-419d-807d-87d38b82bde1)
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/28c46d0f-7ee9-4747-8485-4e46c4940b4e)
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/1307fcfc-8a42-487c-93fb-7ec9f3be1b2c)
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/8a2659b5-ae1c-496a-9b1a-88df46ffd7cd)
 
-
-
-
-
-
-
-
-
-
-
+Access Denied
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/a4408ed1-e818-41c9-b7bd-bd59f7690529)
 
 
 
