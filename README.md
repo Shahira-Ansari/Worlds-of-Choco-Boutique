@@ -93,22 +93,34 @@ Create an alert rule for choco bites
 Access Denied
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/a4408ed1-e818-41c9-b7bd-bd59f7690529)
 
+Email Received for error
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/4b7b1353-32b2-4994-97fc-4a8b87444e38)
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/8828e768-9e55-4a7c-9757-1538dae386a9)
 
+Email Received for error resolved
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/923ad59e-aa04-463c-b457-36d8be593ca9)
 
+We can view website now
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/a995eeab-e584-4bdf-a431-3b8b4ec7cce0)
 
+Create an alert rule for worldofchocoboutique 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/f6f6e2dd-ee0c-43d7-9797-93868de3e107)
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/0b16dd79-579d-41c0-bc90-0278a668033d)
 
+Access Denied 
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/a66f8d9e-7dad-403f-9894-25485fb7cc49)
 
+Email Received for error
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/07734524-7285-430a-924f-a5d1e0623740)
 
+We can view website now
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/cf5b2fbb-bd9e-4b79-9844-c92b3c3442ef)
 
+Email Received for error resolved
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/29490401-eced-4b05-8e42-df8ead62d1b7)
 
-
-
-
-
-
-
-
-
+Error Solved
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/d9193118-c6a4-49e1-a844-f020e41cef39)
 
 
 
