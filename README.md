@@ -37,8 +37,48 @@ To deploy a website on Azure, establish a custom URL via DNS. Additionally, sett
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Working Website URL with web app**
+
 home page
-![Screenshot (10)](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/1683c050-5047-4f2e-b9e6-4ee69fb15751)
+
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/ff86b9e4-9b2e-4117-84d4-9e4b800c8565)
+
+About us 
+
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/9a7668ca-6e82-4f54-b74d-5daa61e2cbf3)
+
+chocolate
+
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/cb07908a-41be-4689-b8aa-e2685c247c66)
+
+Testimonial
+
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/f4586fcd-9508-479f-89c3-e57d7f69150b)
+
+Contact Us
+
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/c5a8a726-81e1-4758-968e-ebf15ebf6c86)
+
+Contact done 
+
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/402d21b6-c010-404b-b55e-20c6184bb4b5)
+
+Login
+
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/4d458403-9eb0-49ee-b2a0-1733a3d783db)
+
+Login Successfully
+
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/6a5917b7-1736-49b8-a15e-1394cd46dccf)
+
+
+
+
+
+
+chocolate
+ Testimonial
+ Contact Us
+ Login
 
 
 
