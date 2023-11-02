@@ -133,6 +133,51 @@ Higher the priority lesser the number.
 
 
 
+45$ is left... Please check this project as soon as possible
+![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/055ff7c9-a472-4f3e-93c0-60b4e2b3d92f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Create a VM
 
 ![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/b0790a5d-6115-4437-9e34-732adf8bca2c)
