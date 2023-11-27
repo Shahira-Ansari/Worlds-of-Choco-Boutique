@@ -9,10 +9,6 @@ https://youtu.be/3hUzs8cpfNs?si=iVteVhklNn5lXoC_
 World of Choco Boutique website link:
 https://world.of.choco.boutique.redbusmagic.online/
 -------------------------------------------------------------------------------------------------------------------------------------------------
-
-45$ is left... Please check this project as soon as possible
-![image](https://github.com/Shahira-Ansari/Worlds-of-Choco-Boutique/assets/144965488/055ff7c9-a472-4f3e-93c0-60b4e2b3d92f)
-
 **Aim:** 
 
 To deploy a website on Azure, establish a custom URL via DNS. Additionally, setting up a web alert rule, and employ access restrictions to prevent malicious users from accessing the website.
